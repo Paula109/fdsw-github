@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+#Hero-Section a{
+  background-color: #25D366;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -32,10 +36,13 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
 }
 
-section h2, h3 {color: #61c1ca;}
+section h2,
+h3 {
+  color: #61c1ca;
+}
